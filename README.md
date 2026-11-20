@@ -1,8 +1,8 @@
 # GTA 6 Clip — make.fun bounty gta6-clipper-01
 
-![make.fun](https://make.fun/badge/gta6-clipper-01.svg)
-![rank](https://make.fun/badge/gta6-clipper-01/rank.svg)
-![reward](https://make.fun/badge/gta6-clipper-01/reward.svg)
+[![make.fun · gta6-clipper-01](https://make.fun/badge/gta6-clipper-01.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![rank](https://make.fun/badge/gta6-clipper-01/ruri08219/gta6-clipper-01/rank.svg)](https://make.fun/bounty/gta6-clipper-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![reward](https://make.fun/badge/gta6-clipper-01/ruri08219/gta6-clipper-01/reward.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
 
 A 19-second vertical clip cut from Rockstar's official GTA VI Trailer 2: Lucia opens
 fire from a truck as a police car explodes and flips — the chase gone wrong — then the
@@ -22,9 +22,7 @@ Entry for the [$500 bounty on make.fun](https://make.fun/bounty/gta6-clipper-01)
 
 ## Status
 
-The clip is rendered and awaiting upload by the user to their YouTube channel
-(@ruri08-o7y) as a public Short. `VIDEO.json` still holds a placeholder URL and will
-be updated with the real Shorts URL once the video is live.
+The clip is published as a public YouTube Short at https://youtube.com/shorts/ver0o96O3mU, and `VIDEO.json` names that URL.
 
 ## Program
 
